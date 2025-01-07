@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: 端游 # the main title
 
-tagline: 一个有个性的人类 # it will display as the subtitle
+tagline: 奇思妙想的脑袋 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://duanyou-oss.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: github_duanyou-oss # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/duanyou-oss # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
